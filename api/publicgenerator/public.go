@@ -3,7 +3,7 @@ package public
 import (
 	"os"
 
-	. "github.com/solrac97gr/sendsms/database"
+	. "github.com/solrac97gr/sendsms/api/database"
 )
 
 var err error
